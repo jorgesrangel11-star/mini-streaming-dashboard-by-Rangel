@@ -1,15 +1,21 @@
-# Aradia - Plataforma Web sobre Neurodivergencia
+# Mini Streaming Dashboard
 
-Sitio web enfocado en la difusión de recursos informativos, educativos y herramientas de apoyo para el autismo y otras condiciones neurodivergentes. El desarrollo se centró en ofrecer una navegación accesible y una interfaz amigable que no fatigue al usuario.
+Aplicación web desarrollada con React que funciona como un panel interactivo y reproductor de contenido multimedia en streaming (series, películas y capítulos). 
 
-## Qué incluye la aplicación
-* **Contenido educativo:** Artículos y guías organizadas para facilitar la lectura a familiares y docentes.
-* **Diseño accesible:** Colores contrastados, jerarquía clara de texto y maquetación pensada para evitar distracciones visuales.
-* **Pruebas de software:** Aplicación de pruebas funcionales y de interfaz basadas en el estándar IEEE 29119 para asegurar que los componentes respondan correctamente.
+## Características principales
+* **Reproductor multimedia integrado:** Control de reproducción y visualización fluida de episodios y video.
+* **Catálogo interactivo:** Navegación por títulos, temporadas y listas de contenido.
+* **Interfaz dinámica:** Componentes modulares con renderizado ágil en el navegador.
+* **Diseño responsivo:** Adaptable para visualización en computadoras y pantallas pequeñas.
 
 ## Tecnologías utilizadas
-* HTML5, CSS3 y JavaScript
-* Documentación de calidad bajo IEEE 29119
+* React.js
+* JavaScript (ES6+)
+* HTML5 / CSS3
+* Node.js & npm
 
----
-**Desarrollado por:** Nizfrank Jorge Sánchez Rangel
+## Instalación y ejecución local
+
+1. Clonar el repositorio:
+   ```bash
+   git clone [https://github.com/jorgesrangel11-star/mini-streaming-dashboard-by-Rangel.git](https://github.com/jorgesrangel11-star/mini-streaming-dashboard-by-Rangel.git)
